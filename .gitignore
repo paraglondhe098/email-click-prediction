@@ -2,4 +2,4 @@ data/preprocessed
 data/raw*
 catboost_info/
 .idea/
-temp
+temp/
